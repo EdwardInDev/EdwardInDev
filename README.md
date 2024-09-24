@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/edward-alban-imbaquingo-02757a32a" target="_blank"> <img alt="Linkedin" title="Edward-alban" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white></a>
 <!-- <a href="https://stackoverflow.com/story/" target="_blank"> <img alt="StackOverflow" title="" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white></a> -->
 
-👨🏻‍💻 About me
+## 👨🏻‍💻 About me
 
 I'm a **Software developer** who specially loves to develop <a href=https://www.java.com/ target="_blank"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=java&logoColor=white"/></a> and I'm becoming very interested in **Web Applications**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
 
