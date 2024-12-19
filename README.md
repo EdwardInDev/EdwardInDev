@@ -7,7 +7,7 @@
 
 I'm a **Software developer** who specially loves to develop <a href=https://www.java.com/ target="_blank"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=java&logoColor=white"/></a> and I'm becoming very interested in **Web Applications**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
 
-The last four years I have combined my work with my training on programming, my previous experience in the administrative area, managing teams and resolving incidents it has given me key skills such as efficient management of time, complex problem solving and work as a team. I consider myself dynamic, proactive and focused on continuous improvement which has led me to achieve excellence in my results.
+The last years I have combined my work with my training on programming, my previous experience in the administrative area, managing teams and resolving incidents it has given me key skills such as efficient management of time, complex problem solving and work as a team. I consider myself dynamic, proactive and focused on continuous improvement which has led me to achieve excellence in my results.
 
 
 ## 🛠️ My favorite tools
