@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Edward Alban <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32"/></h1>
 <a href="https://github.com/EdwardInDev" target="_blank"> <img alt="GitHub" title="Edward-Alban" src=https://img.shields.io/badge/-Github-black?style=flat&logo=github></a>
-<a href="https://www.linkedin.com/in/edward-alban-imbaquingo-02757a32a" target="_blank"> <img alt="Linkedin" title="Edward-alban" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white></a>
+<a href="https://www.linkedin.com/in/edward-alban-i?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"> <img alt="Linkedin" title="Edward-alban" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white></a>
 <!-- <a href="https://stackoverflow.com/story/" target="_blank"> <img alt="StackOverflow" title="" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white></a> -->
 
 ## 👨🏻‍💻 About me
 
-I'm a **Software developer** who specially loves to develop <a href=https://www.java.com/ target="_blank"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=java&logoColor=white"/></a> and I'm becoming very interested in **Web Applications**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
+I'm a **Data Scientist** who specially loves to develop and I'm becoming very interested in **data**. I have special enthusiasm for **Computer Vision, IA, Machine Learning** problems and **High Performance Computing**.
 
 The last years I have combined my work with my training on programming, my previous experience in the administrative area, managing teams and resolving incidents it has given me key skills such as efficient management of time, complex problem solving and work as a team. I consider myself dynamic, proactive and focused on continuous improvement which has led me to achieve excellence in my results.
 
@@ -55,7 +55,7 @@ The last years I have combined my work with my training on programming, my previ
 
  ## 🏃🏻‍♂️‍➡️ How I arrived here
 
-🔍 Since I was a child, when I was only 9 years old, I have always been good at computers as a hobby, because I consider myself very curious. Later, in high school, I hacked my video game console myself and I started patching video games, then on my own I used to burn discs and sell them in class to my classmates, it was fun for me. In that moment I began to be interested in code and what was behind every open source software. When I reached adolescence I put it aside because I didn't realize that I could make a living from this (you know, adolescence...). I started working as an administrator with 21 years old for 12 years (because life takes you down the path of expenses and responsibilities) until I decided to return to my knowledge of computer science 📚 then I begun to combined my work with my training on programming and now I have been dedicated to it for 3 years 🤓, **I'm finally doing what I'm passionate about and I won't stop.**
+🔍 Since I was a child, when I was only 9 years old, I have always been good at computers as a hobby, because I consider myself very curious. Later, in high school, I hacked my video game console myself and I started patching video games, then on my own I used to burn discs and sell them in class to my classmates, it was fun for me. In that moment I began to be interested in coding and what is behind every open source software. When I reached adolescence I put it aside because I didn't realize that I could make a living from this (you know, adolescence...). I started working as an administrator with 21 years old for 12 years (because life takes you down the path of expenses and responsibilities) until I decided to return to my knowledge of computer science 📚 then I begun to combined my work with my training on programming and now I have been dedicated to it for 3 years 🤓, **I'm finally doing what I'm passionate about and I won't stop.**
 
 ## :chart_with_upwards_trend: Stats Summary
 
