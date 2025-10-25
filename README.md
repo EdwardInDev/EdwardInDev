@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About me
 
-I'm a **Data Scientist** who specially loves to develop and I'm becoming very interested in **data**. I have special enthusiasm for **Computer Vision, IA, Machine Learning** problems and **High Performance Computing**.
+I'm a **Data Scientist** who specially loves to develop and I'm very interested in **data**. I have special enthusiasm for **Computer Vision, IA, Machine Learning** problems and **High Performance Computing**.
 
 The last years I have combined my work with my training on programming, my previous experience in the administrative area, managing teams and resolving incidents it has given me key skills such as efficient management of time, complex problem solving and work as a team. I consider myself dynamic, proactive and focused on continuous improvement which has led me to achieve excellence in my results.
 
