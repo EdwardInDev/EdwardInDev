@@ -65,12 +65,6 @@ The last years I have combined my work with my training on programming, my previ
     </a>
 </p>
 
-<div align="center">
-    <a href="https://github.com/EdwardInDev">
-        <img src="https://github-profile-trophy.vercel.app/?username=EdwardInDev&theme=discord&title=MultiLanguage,Stars,Commits,Repositories,Experiece,Followers&column=-1" alt="GitHub Trophies"/>
-    </a>
-</div>
-
 <!--
 **EdwardInDev/EdwardInDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
