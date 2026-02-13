@@ -61,9 +61,6 @@ The last years I have combined my work with my training on programming, my previ
 
 <p align="center">
     <a href="https://github.com/EdwardInDev">
-        <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardInDev&show_icons=true&theme=transparent&hide=prs&include_all_commits=true&card_width=300" alt="Github Readme Stats Card"/>
-    </a>
-    <a href="https://github.com/EdwardInDev">
         <img height="175" align="center" src="https://streak-stats.demolab.com/?user=EdwardInDev&theme=transparent&hide_current_streak=true&card_width=400" alt="Github Streak Stats"/>
     </a>
 </p>
