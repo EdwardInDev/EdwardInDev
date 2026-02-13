@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About me
 
-I'm a **Data Scientist** who specially loves to develop and I'm very interested in **data**. I have special enthusiasm for **Computer Vision, IA, Machine Learning** problems and **High Performance Computing**.
+I'm a **Developer** who specially loves to computer science enviroment and I'm very interested in **AI**.
 
 The last years I have combined my work with my training on programming, my previous experience in the administrative area, managing teams and resolving incidents it has given me key skills such as efficient management of time, complex problem solving and work as a team. I consider myself dynamic, proactive and focused on continuous improvement which has led me to achieve excellence in my results.
 
@@ -55,7 +55,7 @@ The last years I have combined my work with my training on programming, my previ
 
  ## 🏃🏻‍♂️‍➡️ How I arrived here
 
-🔍 Since I was a child, when I was only 9 years old, I have always been good at computers as a hobby, because I consider myself very curious. Later, in high school, I hacked my video game console myself and I started patching video games, then on my own I used to burn discs and sell them in class to my classmates, it was fun for me. In that moment I began to be interested in coding and what is behind every open source software. When I reached adolescence I put it aside because I didn't realize that I could make a living from this (you know, adolescence...). I started working as an administrator with 21 years old for 12 years (because life takes you down the path of expenses and responsibilities) until I decided to return to my knowledge of computer science 📚 then I begun to combined my work with my training on programming and now I have been dedicated to it for 3 years 🤓, **I'm finally doing what I'm passionate about and I won't stop.**
+🔍 Since I was a child, when I was only 9 years old, I have always been good at computers as a hobby, because I consider myself very curious. Later, in high school, I hacked my video game console myself and I started patching video games, then on my own I used to burn discs and played with my classmates, it was fun for me. In that moment I began to be interested in coding and what is behind every open source software. When I reached adolescence I put it aside because I didn't realize that I could make a living from this. I needed work soon and started working as an administrator with 21 years old for 12 years (because life takes you down the path of expenses and responsibilities) until I decided to return to my knowledge of computer science 📚 then I begun to combined my work with my training on programming and now I have been dedicated to it for 5 years 🤓, **I'm finally doing what I'm passionate about and I won't stop.**
 
 ## :chart_with_upwards_trend: Stats Summary
 
